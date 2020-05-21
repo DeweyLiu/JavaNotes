@@ -1,4 +1,4 @@
-package stringreverse;
+package stringreverse01;
 
 /**
  * 用递归实现字符串倒转
